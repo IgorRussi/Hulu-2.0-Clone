@@ -1,4 +1,3 @@
-import { Height } from "@material-ui/icons";
 import React from "react";
 import Image from "next/image";
 import { ThumbUpIcon } from "@heroicons/react/outline";
